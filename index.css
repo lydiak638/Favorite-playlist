@@ -1,0 +1,7 @@
+#overall{
+    background-color: khaki;
+    border: 2px solid black;
+}
+#menu{
+    display: inline-block;
+}
